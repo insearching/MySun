@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SunriseSunset</string>
+    <string name="google_places_api_key">AIzaSyAdWUSAsMkXukdXYoyo4uq2ueTPKjCZB9I</string>
+    <string name="instruction">Type city in the field above or pick current location in order to
+        retrieve sunset/sunrise information.</string>
+    <string name="permission_required_title">Permission required</string>
+    <string name="permission_required_message">In order to request information about sunrise and
+        sunset for your location app is required to have a location permission.</string>
+</resources>
